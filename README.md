@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I’m currently pursuing a degree in **Network Operations and Security** at **Western Governors University (WGU)**, with over 5 years of IT experience across industries like **federal**, **fintech**, and **healthcare**. I’ve developed a deep understanding of **incident management**, **network security**, and **system monitoring**, having supported organizations like **Bank of America**, **Goldman Sachs**, **iHeartRadio** and **Defense Health Agency**.
+I’m graduating with a degree in **Network Operations and Security** at **Western Governors University (WGU)**, with over 5 years of IT experience across industries like **federal**, **fintech**, and **healthcare**. I’ve developed a deep understanding of **incident management**, **network security**, and **system monitoring**, having supported organizations like **Bank of America**, **Goldman Sachs**, **iHeartRadio** and **Defense Health Agency**.
 
 ### My Expertise:
 - **Cybersecurity Incident Response**: I specialize in identifying, analyzing, and resolving security incidents using tools such as **Splunk**, **Datadog**, and **ThousandEyes**. My focus is on maintaining secure environments by monitoring system health and mitigating risks in real-time.
@@ -11,9 +11,6 @@ I’m currently pursuing a degree in **Network Operations and Security** at **We
 
 - **Collaborative Problem-Solving**: I’ve worked closely with **DevOps**, **NetOps (Network Engineers)**, **Database Administrators**, **Product Managers/Owners**, **Directors of IT**, and **Help Desk** teams, ensuring smooth coordination during incidents and system changes.
 
-### Current Focus:
-1. Completing the **Cisco Certified Network Associate (CCNA)** certification, focusing on networking protocols and configurations.
-2. Expanding my **Python** programming skills for network automation and cybersecurity monitoring.
 
 ---
 
